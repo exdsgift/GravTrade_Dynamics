@@ -1,6 +1,6 @@
 # Gravity Equations in Commercial Trade
 
-This repository contains resources related to the study and application of gravity equations in commercial trade analysis.
+This repository contains resources related to the study and application of gravity equations in commercial trade analysis. This is the final project for the course: Empirical Economics (grade: 28/30)
 
 ## Introduction
 
