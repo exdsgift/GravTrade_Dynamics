@@ -11,3 +11,5 @@ This is the final project for the course: Empirical Economics (grade: 28/30)
 
 This project is licensed under the [MIT License](LICENSE).
 
+![test](https://github.com/exdsgift/GravTrade_Dynamics/blob/main/images/code.png)
+
